@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T09:14:47.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="14.6.13" etag="bmYnwg3igGvQFALg1PKS" type="github"><diagram id="wgtkSUUHIiVzfDze-bDs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-26T09:28:43.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gxPHk6rqP4K6AARZrOkE" version="14.6.13" type="github">
+  <diagram id="wgtkSUUHIiVzfDze-bDs" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P0goy9-oV36tOzhakInB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0goy9-oV36tOzhakInB-1" target="P0goy9-oV36tOzhakInB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P0goy9-oV36tOzhakInB-1" target="P0goy9-oV36tOzhakInB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P0goy9-oV36tOzhakInB-1" target="P0goy9-oV36tOzhakInB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-1" value="JAX RS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-2" value="RESTEasy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-3" value="Jersey" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-4" value="Apache CXF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-6" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="46.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-8" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="46.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-9" value="" style="verticalLabelPosition=bottom;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="46.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-13" value="JBoss&lt;br&gt;Community" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="305" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-14" value="Eclipse&lt;br&gt;Foundation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="305" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P0goy9-oV36tOzhakInB-15" value="Apache&lt;br&gt;Foundation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="305" width="40" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="https://github.com/resteasy/resteasy" id="P0goy9-oV36tOzhakInB-16">
+          <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+            <mxGeometry x="160" y="360" width="52" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <object label="" link="https://github.com/eclipse-ee4j/jersey" id="P0goy9-oV36tOzhakInB-18">
+          <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+            <mxGeometry x="360" y="360" width="52" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <UserObject label="" link="https://github.com/apache/cxf" id="P0goy9-oV36tOzhakInB-19">
+          <mxCell style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+            <mxGeometry x="560" y="360" width="52" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
